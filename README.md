@@ -8,6 +8,7 @@
 ## Dataset summaries
 
 ### Transcriptomics
+- [habib-2017-snRNAseq](https://github.com/eturkes/habib-2017-snRNAseq)
 - [lake-2016-snRNAseq](https://github.com/eturkes/lake-2016-snRNAseq)
 
 ### Proteomics
