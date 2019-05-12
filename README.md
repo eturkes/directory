@@ -1,5 +1,5 @@
 # Directory of select Github repositories
-#### *This directory is up-to-date*
+#### *The information here is up-to-date*
 
 ## In-depth analyses
 - [bag3-pathway-analysis](https://github.com/eturkes/bag3-pathway-analysis)
