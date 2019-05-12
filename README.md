@@ -2,6 +2,7 @@
 #### *This directory is up-to-date*
 
 ## In-depth analyses
+- [bag3-pathway-analysis](https://github.com/eturkes/bag3-pathway-analysis)
 - [tau-vulnerability](https://github.com/eturkes/tau-vulnerability)
 - [asd-concept-map](https://github.com/eturkes/asd-concept-map)
 
