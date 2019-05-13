@@ -1,5 +1,6 @@
 # Directory of select Github repositories
 #### *The information here is up-to-date*
+Please email me at emir.turkes@eturkes.com for access to private repositories.
 
 ## In-depth analyses
 - [bag3-pathway-analysis](https://github.com/eturkes/bag3-pathway-analysis)
@@ -9,8 +10,8 @@
 ## Dataset summaries
 
 ### Transcriptomics
-- [habib-2017-snRNAseq](https://github.com/eturkes/habib-2017-snRNAseq)
-- [lake-2016-snRNAseq](https://github.com/eturkes/lake-2016-snRNAseq)
+- [habib-2017-snRNAseq](https://github.com/eturkes/habib-2017-snRNAseq) *(private)*
+- [lake-2016-snRNAseq](https://github.com/eturkes/lake-2016-snRNAseq) *(private)*
 
 ### Proteomics
 - [bag3-co-ip](https://github.com/eturkes/bag3-co-ip)
