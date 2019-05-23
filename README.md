@@ -17,7 +17,7 @@ Please email me at emir.turkes@eturkes.com for access to private repositories.
 - [bag3-co-ip](https://github.com/eturkes/bag3-co-ip)
 
 ### Intellicage
-- [oxtr-ko-2017-03](https://github.com/eturkes/oxtr-ko-2017-03)
+- [oxtr-ko-201703](https://github.com/eturkes/oxtr-ko-201703)
 
 ## Software
 
