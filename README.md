@@ -3,6 +3,7 @@
 Please email me at emir.turkes@eturkes.com for access to private repositories.
 
 ## In-depth analyses
+- [AD-CBD-exosome-proteins](https://github.com/eturkes/AD-CBD-exosome-proteins)
 - [transcriptomics-benchmarks](https://github.com/eturkes/transcriptomics-benchmarks)
 - [bag3-pathway-analysis](https://github.com/eturkes/bag3-pathway-analysis)
 - [tau-vulnerability](https://github.com/eturkes/tau-vulnerability) *(private)*
