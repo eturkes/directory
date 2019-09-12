@@ -6,7 +6,7 @@ Please email me at emir.turkes@eturkes.com for access to private repositories.
 - [transcriptomics-benchmarks](https://github.com/eturkes/transcriptomics-benchmarks)
 - [bag3-pathway-analysis](https://github.com/eturkes/bag3-pathway-analysis)
 - [tau-vulnerability](https://github.com/eturkes/tau-vulnerability) *(private)*
-- [asd-concept-map](https://github.com/eturkes/asd-concept-map)
+- [ASD-concept-map](https://github.com/eturkes/ASD-concept-map)
 
 ## Dataset summaries
 
