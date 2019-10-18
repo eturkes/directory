@@ -9,7 +9,6 @@ Please email me at emir.turkes@eturkes.com for access to private repositories.
 - [ASD-concept-map](https://github.com/eturkes/ASD-concept-map)
 
 ## Dataset summaries
-
 ### Transcriptomics
 - [habib-2017-snRNAseq](https://github.com/eturkes/habib-2017-snRNAseq)
 - [lake-2016-snRNAseq](https://github.com/eturkes/lake-2016-snRNAseq)
@@ -22,7 +21,6 @@ Please email me at emir.turkes@eturkes.com for access to private repositories.
 - [oxtr-ko-201703](https://github.com/eturkes/oxtr-ko-201703)
 
 ## Software
-
 - [eturkesRutils](https://github.com/eturkes/eturkesRutils)
 - [pymice-tools](https://github.com/eturkes/pymice-tools)
 - [pivot-docker](https://github.com/eturkes/pivot-docker)
@@ -30,7 +28,6 @@ Please email me at emir.turkes@eturkes.com for access to private repositories.
 - [KeepToText-eturkes](https://github.com/eturkes/KeepToText-eturkes)
 
 ## Misc
-
 - [website-eturkes](https://github.com/eturkes/website-eturkes)
 - [resume-eturkes](https://github.com/eturkes/resume-eturkes)
 - [dotfiles-eturkes](https://github.com/eturkes/dotfiles-eturkes)
