@@ -20,6 +20,9 @@ Please email me at emir.turkes@eturkes.com for access to private repositories.
 ### Intellicage
 - [oxtr-ko-201703](https://github.com/eturkes/oxtr-ko-201703)
 
+### Misc
+- [quick-omics](https://github.com/eturkes/quick-omics)
+
 ## Software
 - [yapmak](https://github.com/eturkes/yapmak)
 - [eturkesRutils](https://github.com/eturkes/eturkesRutils)
