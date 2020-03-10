@@ -22,6 +22,7 @@ Please email me at emir.turkes@eturkes.com for access to private repositories.
 
 ### Misc
 - [quick-omics](https://github.com/eturkes/quick-omics)
+- [iss-scripts](https://github.com/eturkes/iss-scripts)
 
 ## Software
 - [yapmak](https://github.com/eturkes/yapmak)
