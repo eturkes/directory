@@ -6,7 +6,6 @@ Please email me at emir.turkes@eturkes.com for access to private repositories.
 - [transcriptomics-benchmarks](https://github.com/eturkes/transcriptomics-benchmarks)
 - [bag3-pathway-analysis](https://github.com/eturkes/bag3-pathway-analysis)
 - [tau-vulnerability](https://github.com/eturkes/tau-vulnerability) *(private)*
-- [ASD-concept-map](https://github.com/eturkes/ASD-concept-map)
 
 ## Dataset summaries
 ### Transcriptomics
@@ -25,7 +24,6 @@ Please email me at emir.turkes@eturkes.com for access to private repositories.
 - [iss-scripts](https://github.com/eturkes/iss-scripts)
 
 ## Software
-- [yapmak](https://github.com/eturkes/yapmak)
 - [eturkesRutils](https://github.com/eturkes/eturkesRutils)
 - [pymice-tools](https://github.com/eturkes/pymice-tools)
 - [pivot-docker](https://github.com/eturkes/pivot-docker)
