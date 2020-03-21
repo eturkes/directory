@@ -2,24 +2,15 @@
 #### *The information here is up-to-date*
 Please email me at emir.turkes@eturkes.com for access to private repositories.
 
-## In-depth analyses
+## Analyses
 - [transcriptomics-benchmarks](https://github.com/eturkes/transcriptomics-benchmarks)
 - [bag3-pathway-analysis](https://github.com/eturkes/bag3-pathway-analysis)
 - [tau-vulnerability](https://github.com/eturkes/tau-vulnerability) *(private)*
 - [AD-CBD-exosome-proteins](https://github.com/eturkes/AD-CBD-exosome-proteins) *(private)*
-
-## Dataset summaries
-### Transcriptomics
 - [habib-2017-snRNAseq](https://github.com/eturkes/habib-2017-snRNAseq)
 - [lake-2016-snRNAseq](https://github.com/eturkes/lake-2016-snRNAseq)
-
-### Proteomics
 - [bag3-co-ip](https://github.com/eturkes/bag3-co-ip)
-
-### Intellicage
 - [oxtr-ko-201703](https://github.com/eturkes/oxtr-ko-201703)
-
-### Misc
 - [quick-omics](https://github.com/eturkes/quick-omics)
 - [iss-scripts](https://github.com/eturkes/iss-scripts)
 
