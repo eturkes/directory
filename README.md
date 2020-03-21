@@ -6,6 +6,7 @@ Please email me at emir.turkes@eturkes.com for access to private repositories.
 - [transcriptomics-benchmarks](https://github.com/eturkes/transcriptomics-benchmarks)
 - [bag3-pathway-analysis](https://github.com/eturkes/bag3-pathway-analysis)
 - [tau-vulnerability](https://github.com/eturkes/tau-vulnerability) *(private)*
+- [AD-CBD-exosome-proteins](https://github.com/eturkes/AD-CBD-exosome-proteins) *(private)*
 
 ## Dataset summaries
 ### Transcriptomics
@@ -13,7 +14,6 @@ Please email me at emir.turkes@eturkes.com for access to private repositories.
 - [lake-2016-snRNAseq](https://github.com/eturkes/lake-2016-snRNAseq)
 
 ### Proteomics
-- [AD-CBD-exosome-proteins](https://github.com/eturkes/AD-CBD-exosome-proteins)
 - [bag3-co-ip](https://github.com/eturkes/bag3-co-ip)
 
 ### Intellicage
