@@ -26,3 +26,5 @@ Please email me at emir.turkes@eturkes.com for access to private repositories.
 - [resume-eturkes](https://github.com/eturkes/resume-eturkes)
 - [dotfiles-eturkes](https://github.com/eturkes/dotfiles-eturkes)
 - [taub-beamer-template](https://github.com/eturkes/taub-beamer-template)
+- [R-tutorial](https://github.com/eturkes/R-tutorial)
+- [R-template](https://github.com/eturkes/R-template)
