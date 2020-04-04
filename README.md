@@ -13,6 +13,7 @@ Please email me at emir.turkes@eturkes.com for access to private repositories.
 - [oxtr-ko-201703](https://github.com/eturkes/oxtr-ko-201703)
 - [quick-omics](https://github.com/eturkes/quick-omics)
 - [iss-scripts](https://github.com/eturkes/iss-scripts)
+- [RNA-preprocess](https://github.com/eturkes/RNAseq-preprocess)
 
 ## Software
 - [eturkesRutils](https://github.com/eturkes/eturkesRutils)
