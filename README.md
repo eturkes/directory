@@ -12,7 +12,7 @@ Please email me at emir.turkes@eturkes.com for access to private repositories.
 - [bag3-co-ip](https://github.com/eturkes/bag3-co-ip)
 - [oxtr-ko-201703](https://github.com/eturkes/oxtr-ko-201703)
 - [quick-omics](https://github.com/eturkes/quick-omics)
-- [iss-scripts](https://github.com/eturkes/iss-scripts)
+- [iss-microglia](https://github.com/eturkes/iss-microglia)
 - [RNA-preprocess](https://github.com/eturkes/RNAseq-preprocess)
 
 ## Software
