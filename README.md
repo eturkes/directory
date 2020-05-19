@@ -1,5 +1,4 @@
 # Simple directory of my Github repositories
-#### *The information here is up-to-date*
 Please email me at emir.turkes@eturkes.com for access to private repositories.
 
 ## Analyses
