@@ -28,3 +28,4 @@ Please email me at emir.turkes@eturkes.com for access to private repositories.
 - [taub-beamer-template](https://github.com/eturkes/taub-beamer-template)
 - [R-tutorial](https://github.com/eturkes/R-tutorial)
 - [R-template](https://github.com/eturkes/R-template)
+- [R-docker-minimal](https://github.com/eturkes/R-docker-minimal)
