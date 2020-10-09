@@ -1,4 +1,4 @@
-# Simple directory of my public Github repositories
+# Simple directory of some of my Github repos
 
 ## Analyses
 - [transcriptomics-benchmarks](https://github.com/eturkes/transcriptomics-benchmarks)
