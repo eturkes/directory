@@ -26,3 +26,4 @@
 - [R-tutorial](https://github.com/eturkes/R-tutorial)
 - [R-template](https://github.com/eturkes/R-template)
 - [R-docker-minimal](https://github.com/eturkes/R-docker-minimal)
+- [utils](https://github.com/eturkes/utils)
