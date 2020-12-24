@@ -10,6 +10,7 @@
 - [quick-omics](https://github.com/eturkes/quick-omics)
 - [iss-microglia](https://github.com/eturkes/iss-microglia)
 - [RNA-preprocess](https://github.com/eturkes/RNAseq-preprocess)
+- [ic-papers-analysis](https://github.com/eturkes/ic-papers-analysis)
 
 ## Software
 - [eturkesRutils](https://github.com/eturkes/eturkesRutils)
