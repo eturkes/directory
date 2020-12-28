@@ -20,7 +20,7 @@
 - [KeepToText-eturkes](https://github.com/eturkes/KeepToText-eturkes)
 
 ## Misc
-- [eturkes-hugo](https://github.com/eturkes/eturkes-hugo)
+- [website-eturkes-hugo](https://github.com/eturkes/website-eturkes-hugo)
 - [resume-eturkes](https://github.com/eturkes/resume-eturkes)
 - [dotfiles-eturkes](https://github.com/eturkes/dotfiles-eturkes)
 - [taub-beamer-template](https://github.com/eturkes/taub-beamer-template)
