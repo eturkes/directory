@@ -11,6 +11,7 @@
 - [iss-microglia](https://github.com/eturkes/iss-microglia)
 - [RNA-preprocess](https://github.com/eturkes/RNAseq-preprocess)
 - [ic-papers-analysis](https://github.com/eturkes/ic-papers-analysis)
+- [zetaview-endosome-analysis](https://github.com/eturkes/zetaview-endosome-analysis)
 
 ## Software
 - [eturkesRutils](https://github.com/eturkes/eturkesRutils)
